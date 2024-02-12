@@ -1,0 +1,15 @@
+# Deception Strategy Name
+> You can be as goofy as you want with this
+
+## Description
+> In this section describe what your are trying to achieve
+
+## Logging & Detection 
+> In this section outline the logging and detection meachanisms to detect entry into the deception scenario
+
+### Stage 1
+> This is the initial entry point where the attacker enters the scenario and should be something easily accessibl
+
+### Stage 2
+
+### Stage 3
